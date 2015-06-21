@@ -1,8 +1,6 @@
 
 library(shiny)
 
-fahToCel<-  function(fahrenheit) ((fahrenheit-32)*(5/9))
-
 milespermeter<-0.00062137
 inchespermeter<-39.37007874
 
